@@ -85,7 +85,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QYGSZXXX'] => '企业税务注销信息',
         IResourceCatalog::TYPE['AJNSRXX'] => 'A级纳税人信息',
         IResourceCatalog::TYPE['ZDSSWFAJXX'] => '重大税收违法案件信息',
-        IResourceCatalog::TYPE['QYDSXZCFXX'] => '企业地税行政处罚信息',
+        IResourceCatalog::TYPE['QYDSXZCFXX'] => '企业税务行政处罚信息',
         IResourceCatalog::TYPE['SPFYSXK'] => '商品房预售许可',
         IResourceCatalog::TYPE['FDCKFQYZZXX'] => '房地产开发企业资质信息',
         IResourceCatalog::TYPE['JGRYXXSFGJ'] => '机构荣誉信息',
