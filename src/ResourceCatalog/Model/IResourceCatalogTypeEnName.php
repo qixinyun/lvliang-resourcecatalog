@@ -90,6 +90,7 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['FDCKFQYZZXX'] => 'fdckfqyzzxx',
         IResourceCatalog::TYPE['JGRYXXSFGJ'] => 'jgryxxsfgj',
         IResourceCatalog::TYPE['QXTCHJBHJDXX'] => 'qxtchjbhjdxx',
+        IResourceCatalog::TYPE['SYDWJBXX'] => 'sydwjbxx',
         IResourceCatalog::TYPE['TEST'] => 'test',
     );
 }
