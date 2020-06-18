@@ -393,7 +393,6 @@ interface IUserGroup extends IUserGroupIdentify
         'LXGXJ' => 832,
         'LXRMGAJ' => 833,
         'LXSFJ' => 834,
-        'LXMZJ' => 835,
         'LXZRZYJ' => 836,
         'LXZJJ' => 837,
         'LXNYJ' => 838,
@@ -576,7 +575,7 @@ interface IUserGroup extends IUserGroupIdentify
         'WSXXZSPJSCGLG' => 1330,
         'WSXXZSPJSKSWG' => 1331,
         'WSXXZSPJJTSWG' => 1332,
-        'SLXFZHGGJ' => 1401,
+
         'SLXSCJDGLJ' => 1402,
         'SLXJYHKJJ' => 1403,
         'SLXGYHXXHJ' => 1404,
