@@ -320,6 +320,7 @@ interface IUserGroup extends IUserGroupIdentify
         'FYSXZSPFWGLJDJZCGEGFZR' => 637,
         'FYSXZSPFWGLJSKSWGFZR' => 638,
         'FYSXZSPFWGLJJTSWGFZR' => 639,
+        'FYSXZSPFWGLJDJZCGYG' => 640,
 
         'ZGFSXWXCB' => 701,
         'FSXWZZB' => 702,
