@@ -91,6 +91,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['JGRYXXSFGJ'] => '机构荣誉信息',
         IResourceCatalog::TYPE['QXTCHJBHJDXX'] => '气象探测环境保护监督信息',
         IResourceCatalog::TYPE['SYDWJBXX'] => '事业单位基本信息',
+        IResourceCatalog::TYPE['HTLY'] => '合同履约',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
     );
 }

@@ -91,6 +91,7 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['JGRYXXSFGJ'] => 'jgryxxsfgj',
         IResourceCatalog::TYPE['QXTCHJBHJDXX'] => 'qxtchjbhjdxx',
         IResourceCatalog::TYPE['SYDWJBXX'] => 'sydwjbxx',
+        IResourceCatalog::TYPE['HTLY'] => 'htly',
         IResourceCatalog::TYPE['TEST'] => 'test',
     );
 }
