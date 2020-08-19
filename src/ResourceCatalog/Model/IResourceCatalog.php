@@ -217,7 +217,9 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['DTJXJGRXX'], self::TYPE['TJDCDXML'],
         ),
         IUserGroup::ID['SYLBZJ'] => array(),
-        IUserGroup::ID['SXZSPJ'] => array(),
+        IUserGroup::ID['SXZSPJ'] => array(
+            ,self::TYPE['HTLY']
+        ),
         IUserGroup::ID['SJRB'] => array(),
         IUserGroup::ID['SYBJFJ'] => array(self::TYPE['YHYJRJGCFXX']),
         IUserGroup::ID['SNYJ'] => array(),
