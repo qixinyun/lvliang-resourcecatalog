@@ -93,7 +93,8 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['SYDWJBXX'] => '事业单位基本信息',
         IResourceCatalog::TYPE['HTLY'] => '合同履约',
         IResourceCatalog::TYPE['QYHYSJ'] => '企业行业数据',
-
+IResourceCatalog::TYPE['ZDRQXYDA'] => '重点人群信用档案',
+        //@position
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
     );
 }
