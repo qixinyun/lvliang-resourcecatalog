@@ -93,8 +93,9 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'SYDWJBXX'=>86,
         'HTLY'=>87,
         'QYHYSJ' => 88,
-'ZDRQXYDA'=>89,
-        //@position_type_90
+        'ZDRQXYDA'=>89,
+        'XYSFSQ'=>90,
+        //@position_type_91
         'TEST' => 500,
     );
 

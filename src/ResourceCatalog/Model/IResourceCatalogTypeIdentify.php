@@ -93,7 +93,8 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['SYDWJBXX'] => 'SYDWJBXX',
         IResourceCatalog::TYPE['HTLY'] => 'HTLY',
         IResourceCatalog::TYPE['QYHYSJ'] => 'QYHYSJ',
-IResourceCatalog::TYPE['ZDRQXYDA'] => 'ZDRQXYDA',
+        IResourceCatalog::TYPE['ZDRQXYDA'] => 'ZDRQXYDA',
+        IResourceCatalog::TYPE['XYSFSQ'] => 'XYSFSQ',
         //@position
         IResourceCatalog::TYPE['TEST'] => 'TEST',
     );
