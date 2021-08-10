@@ -95,6 +95,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QYHYSJ'] => '企业行业数据',
         IResourceCatalog::TYPE['ZDRQXYDA'] => '重点人群信用档案',
         IResourceCatalog::TYPE['XYSFSQ'] => '信用示范（商圈、街区）',
+        IResourceCatalog::TYPE['CCJCJG'] => '抽查检查结果',
         //@position
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
     );
