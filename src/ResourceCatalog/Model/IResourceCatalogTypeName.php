@@ -96,6 +96,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['ZDRQXYDA'] => '重点人群信用档案',
         IResourceCatalog::TYPE['XYSFSQ'] => '信用示范（商圈、街区）',
         IResourceCatalog::TYPE['CCJCJG'] => '抽查检查结果',
+        IResourceCatalog::TYPE['YZTQNMGGZHMDGR'] => '严重拖欠农民工工资名单个人',
         //@position
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
     );
