@@ -45,7 +45,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['SYBXXX'] => '失业保险信息',
         IResourceCatalog::TYPE['SBQYXX'] => '社保企业信息',
         IResourceCatalog::TYPE['GZRYXX'] => '公职人员信息',
-        IResourceCatalog::TYPE['YZTQNMGGZHMD'] => '严重拖欠农民工工资黑名单',
+        IResourceCatalog::TYPE['YZTQNMGGZHMD'] => '拖欠农民工工资失信联合惩戒对象名单',
         IResourceCatalog::TYPE['PGJGXX'] => '评估机构信息',
         IResourceCatalog::TYPE['CPTGLSZXCPRZMD'] => '产品通过“绿色之星”产品认证名单',
         IResourceCatalog::TYPE['ZLJCQYXX'] => '质量检测企业信息',
