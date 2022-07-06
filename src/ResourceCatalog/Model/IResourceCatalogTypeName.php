@@ -97,6 +97,16 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['XYSFSQ'] => '信用示范（商圈、街区）',
         IResourceCatalog::TYPE['CCJCJG'] => '抽查检查结果',
         IResourceCatalog::TYPE['YZTQNMGGZHMDGR'] => '严重拖欠农民工工资名单个人',
+        IResourceCatalog::TYPE['FRXZCJ'] => '法人行政裁决',
+        IResourceCatalog::TYPE['FRXZJDJC'] => '法人行政监督检查',
+        IResourceCatalog::TYPE['FRXZJL'] => '法人行政奖励',
+        IResourceCatalog::TYPE['FRXZQR'] => '法人行政确认',
+        IResourceCatalog::TYPE['FRXZQZ'] => '法人行政强制',
+        IResourceCatalog::TYPE['ZRRXZCJ'] => '自然人行政裁决',
+        IResourceCatalog::TYPE['ZRRXZJDJC'] => '自然人行政监督检查',
+        IResourceCatalog::TYPE['ZRRXZJL'] => '自然人行政奖励',
+        IResourceCatalog::TYPE['ZRRXZQR'] => '自然人行政确认',
+        IResourceCatalog::TYPE['ZRRXZQZ'] => '自然人行政强制',
         //@position
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
     );
