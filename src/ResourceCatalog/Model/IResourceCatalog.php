@@ -107,7 +107,18 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'ZRRXZJL'=>100,
         'ZRRXZQR'=>101,
         'ZRRXZQZ'=>102,
-        //@position_type_103
+        'DFJFXX'=>103,
+        'FZCNSHXX'=>104,
+        'HBXYPJQK'=>105,
+        'KJYFXX'=>106,
+        'NSXX'=>107,
+        'QSXX'=>108,
+        'QYMXBDCDJQK'=>109,
+        'QYMXFCDYXX'=>110,
+        'RQFJFXX'=>111,
+        'SFJFXX'=>112,
+        'XXNYJYZTXX'=>113,
+        //@position_type_114
         'TEST' => 500,
     );
 
@@ -130,6 +141,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['FRXZCJ']
         ),
         IUserGroup::ID['SFGW'] => array(
+            self::TYPE['SFJFXX'],
             self::TYPE['ZDRQXYDA'],
             self::TYPE['JGJCDXZJL'], 
             self::TYPE['TEST'], 
@@ -158,6 +170,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['JGRYXXSJYJ'],
         ),
         IUserGroup::ID['SKJJ'] => array(
+            self::TYPE['KJYFXX'],
             self::TYPE['SXSZLJDW'],
         ),
         IUserGroup::ID['SGXJ'] => array(
@@ -194,7 +207,11 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['YZTQNMGGZHMD'],
             self::TYPE['YZTQNMGGZHMDGR'],
         ),
-        IUserGroup::ID['SGHHZRZRJ'] => array(self::TYPE['PGJGXX']),
+        IUserGroup::ID['SGHHZRZRJ'] => array(
+            self::TYPE['QYMXFCDYXX'],
+            self::TYPE['QYMXBDCDJQK'],
+            self::TYPE['PGJGXX']
+        ),
         IUserGroup::ID['SHJSTJ'] => array(
             self::TYPE['CPTGLSZXCPRZMD'],
         ),
@@ -202,6 +219,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['ZLJCQYXX'],
         ),
         IUserGroup::ID['SCSGLJ'] => array(
+            self::TYPE['RQFJFXX'],
             self::TYPE['XZXKQYXX'],
         ),
         IUserGroup::ID['SJTYSJ'] => array(
@@ -210,6 +228,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['SSLJ'] => array(self::TYPE['SLGCZBXX']),
         IUserGroup::ID['RHLLZH'] => array(self::TYPE['JKQYPJAJYSMD']),
         IUserGroup::ID['SNYNCJ'] => array(
+            self::TYPE['XXNYJYZTXX'],
             self::TYPE['GJJLTQYRZXX'],
         ),
         IUserGroup::ID['SSANGWJ'] => array(
@@ -230,6 +249,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['STYJRSWJ'] => array(),
         IUserGroup::ID['SSJJ'] => array(),
         IUserGroup::ID['SSCJDGLJ'] => array(
+            self::TYPE['XXNYJYZTXX'],
             self::TYPE['QIYEJBXX'],
             self::TYPE['GTGSHXX'],
             self::TYPE['CMQYSBXX'],
@@ -252,14 +272,22 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         ),
         IUserGroup::ID['SYLBZJ'] => array(),
         IUserGroup::ID['SXZSPJ'] => array(
+            self::TYPE['XXNYJYZTXX'],
             self::TYPE['HTLY']
         ),
         IUserGroup::ID['SJRB'] => array(),
-        IUserGroup::ID['SYBJFJ'] => array(self::TYPE['YHYJRJGCFXX']),
-        IUserGroup::ID['SNYJ'] => array(),
+        IUserGroup::ID['SYBJFJ'] => array(
+            self::TYPE['YHYJRJGCFXX']
+        ),
+        IUserGroup::ID['SNYJ'] => array(
+            self::TYPE['DFJFXX'],
+            ),
         IUserGroup::ID['SRFB'] => array(),
         IUserGroup::ID['SDSJYYJ'] => array(),
         IUserGroup::ID['SSWJ'] => array(
+            self::TYPE['QSXX'],
+            self::TYPE['NSXX'],
+            self::TYPE['FZCNSHXX'],
             self::TYPE['QYGSZXXX'],
             self::TYPE['AJNSRXX'],
             self::TYPE['ZDSSWFAJXX'],
@@ -291,7 +319,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['LLSJSWMJSZDWYHBGS'] => array(),
         IUserGroup::ID['LLSZFFZB'] => array(),
         IUserGroup::ID['LLSGSGLXZJ'] => array(),
-        IUserGroup::ID['LLSHJBHJ'] => array(),
+        IUserGroup::ID['LLSHJBHJ'] => array(
+            self::TYPE['HBXYPJQK'],),
         IUserGroup::ID['LLSZLJSJDJ'] => array(),
         IUserGroup::ID['LLSSPYPJDGLJ'] => array(),
         IUserGroup::ID['LLSJJHXXHWYH'] => array(),

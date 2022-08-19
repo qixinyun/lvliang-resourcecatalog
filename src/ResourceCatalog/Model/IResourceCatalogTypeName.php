@@ -107,6 +107,17 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['ZRRXZJL'] => '自然人行政奖励',
         IResourceCatalog::TYPE['ZRRXZQR'] => '自然人行政确认',
         IResourceCatalog::TYPE['ZRRXZQZ'] => '自然人行政强制',
+        IResourceCatalog::TYPE['DFJFXX'] => '电费缴费信息',
+        IResourceCatalog::TYPE['FZCNSHXX'] => '非正常纳税户',
+        IResourceCatalog::TYPE['HBXYPJQK'] => '环保信用评价情况',
+        IResourceCatalog::TYPE['KJYFXX'] => '科技研发信息',
+        IResourceCatalog::TYPE['NSXX'] => '纳税信息',
+        IResourceCatalog::TYPE['QSXX'] => '欠税信息',
+        IResourceCatalog::TYPE['QYMXBDCDJQK'] => '企业名下不动产登记情况',
+        IResourceCatalog::TYPE['QYMXFCDYXX'] => '企业名下房产抵押信息',
+        IResourceCatalog::TYPE['RQFJFXX'] => '燃气费缴费信息',
+        IResourceCatalog::TYPE['SFJFXX'] => '水费缴费信息',
+        IResourceCatalog::TYPE['XXNYJYZTXX'] => '新型农业经营主体信息',
         //@position
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
     );

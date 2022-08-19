@@ -107,6 +107,17 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['ZRRXZJL'] => 'zrrxzjl',
         IResourceCatalog::TYPE['ZRRXZQR'] => 'zrrxzqr',
         IResourceCatalog::TYPE['ZRRXZQZ'] => 'zrrxzqz',
+        IResourceCatalog::TYPE['DFJFXX'] => 'dfjfxx',
+        IResourceCatalog::TYPE['FZCNSHXX'] => 'fzcnshxx',
+        IResourceCatalog::TYPE['HBXYPJQK'] => 'hbxypjqk',
+        IResourceCatalog::TYPE['KJYFXX'] => 'kjyfxx',
+        IResourceCatalog::TYPE['NSXX'] => 'nsxx',
+        IResourceCatalog::TYPE['QSXX'] => 'qsxx',
+        IResourceCatalog::TYPE['QYMXBDCDJQK'] => 'qymxbdcdjqk',
+        IResourceCatalog::TYPE['QYMXFCDYXX'] => 'qymxfcdyxx',
+        IResourceCatalog::TYPE['RQFJFXX'] => 'rqfjfxx',
+        IResourceCatalog::TYPE['SFJFXX'] => 'sfjfxx',
+        IResourceCatalog::TYPE['XXNYJYZTXX'] => 'xxnyjyztxx',
         //@position
         IResourceCatalog::TYPE['TEST'] => 'test',
     );
