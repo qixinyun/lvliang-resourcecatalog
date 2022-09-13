@@ -601,6 +601,8 @@ interface IUserGroupIdentify
         IUserGroup::ID['SLXXZSPFWGLJ'] => 'SLXXZSPFWGLJ',
         IUserGroup::ID['SLXYJGLJ'] => 'SLXYJGLJ',
         IUserGroup::ID['SLXYCZMJ'] => 'SLXYCZMJ',
-        IUserGroup::ID['SLXQXJ'] => 'SLXQXJ'
+        IUserGroup::ID['SLXQXJ'] => 'SLXQXJ',
+        IUserGroup::ID['LINXJTYSJ'] => 'LINXJTYSJ',
+        IUserGroup::ID['FYSYCZMJ'] => 'FYSYCZMJ',
     );
 }

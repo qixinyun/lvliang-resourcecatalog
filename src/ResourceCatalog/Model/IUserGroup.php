@@ -600,6 +600,8 @@ interface IUserGroup extends IUserGroupIdentify
         'SLXXZSPFWGLJ' => 1422,
         'SLXYJGLJ' => 1423,
         'SLXYCZMJ' => 1424,
-        'SLXQXJ' => 1425
+        'SLXQXJ' => 1425,
+        'LINXJTYSJ' => 1528,
+        'FYSYCZMJ' => 1529,
     );
 }
