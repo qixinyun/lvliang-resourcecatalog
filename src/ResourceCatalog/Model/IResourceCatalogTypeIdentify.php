@@ -1,9 +1,10 @@
 <?php
+
 namespace ResourceCatalog\Model;
 
 interface IResourceCatalogTypeIdentify
 {
-    const TYPE_IDENTIFY = array(
+    public const TYPE_IDENTIFY = array(
         IResourceCatalog::TYPE['NULL'] => 0,
         IResourceCatalog::TYPE['XBXZCF'] => 'XBXZCF',
         IResourceCatalog::TYPE['XBXZXK'] => 'XBXZXK',
@@ -118,6 +119,10 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['RQFJFXX'] => 'RQFJFXX',
         IResourceCatalog::TYPE['SFJFXX'] => 'SFJFXX',
         IResourceCatalog::TYPE['XXNYJYZTXX'] => 'XXNYJYZTXX',
+        IResourceCatalog::TYPE['BDCDYYWXX'] => 'BDCDYYWXX',
+        IResourceCatalog::TYPE['BDCFWXQ'] => 'BDCFWXQ',
+        IResourceCatalog::TYPE['BDCQLR'] => 'BDCQLR',
+        IResourceCatalog::TYPE['NSXYDJ'] => 'NSXYDJ',
         //@position
         IResourceCatalog::TYPE['TEST'] => 'TEST',
     );

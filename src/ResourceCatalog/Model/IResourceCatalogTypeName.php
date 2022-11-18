@@ -1,9 +1,10 @@
 <?php
+
 namespace ResourceCatalog\Model;
 
 interface IResourceCatalogTypeName
 {
-    const TYPE_NAME = array(
+    public const TYPE_NAME = array(
         IResourceCatalog::TYPE['NULL'] => 0,
         IResourceCatalog::TYPE['XBXZCF'] => '行政处罚公示信息',
         IResourceCatalog::TYPE['XBXZXK'] => '行政许可公示信息',
@@ -118,6 +119,10 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['RQFJFXX'] => '燃气费缴费信息',
         IResourceCatalog::TYPE['SFJFXX'] => '水费缴费信息',
         IResourceCatalog::TYPE['XXNYJYZTXX'] => '新型农业经营主体信息',
+        IResourceCatalog::TYPE['BDCDYYWXX'] => '不动产抵押业务信息',
+        IResourceCatalog::TYPE['BDCFWXQ'] => '不动产房屋详情',
+        IResourceCatalog::TYPE['BDCQLR'] => '不动产权利人',
+        IResourceCatalog::TYPE['NSXYDJ'] => '纳税信用等级',
         //@position
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
     );
