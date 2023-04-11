@@ -148,6 +148,7 @@ interface IUserGroup extends IUserGroupIdentify
         'LLXXZSPFWGLJCGJTG' => 240,
         'LLXXZSPFWGLJXCKYG' => 241,
         'LLXXZSPFWGLJSHSWG' => 242,
+        'LLXXFJYDD'=>1534,
 
         'SXSLXQXJ' => 301,
         'LLSSTHJJLXFJ' => 302,

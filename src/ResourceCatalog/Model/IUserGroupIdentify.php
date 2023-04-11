@@ -148,6 +148,7 @@ interface IUserGroupIdentify
         IUserGroup::ID['LLXXZSPFWGLJCGJTG'] => 'LLXXZSPFWGLJCGJTG',
         IUserGroup::ID['LLXXZSPFWGLJXCKYG'] => 'LLXXZSPFWGLJXCKYG',
         IUserGroup::ID['LLXXZSPFWGLJSHSWG'] => 'LLXXZSPFWGLJSHSWG',
+        IUserGroup::ID['LLXXFJYDD'] => 'LLXXFJYDD',
 
         IUserGroup::ID['SXSLXQXJ'] => 'SXSLXQXJ',
         IUserGroup::ID['LLSSTHJJLXFJ'] => 'LLSSTHJJLXFJ',
