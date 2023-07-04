@@ -323,6 +323,7 @@ interface IUserGroupIdentify
         IUserGroup::ID['FYSXZSPFWGLJSKSWGFZR'] => 'FYSXZSPFWGLJSKSWGFZR',
         IUserGroup::ID['FYSXZSPFWGLJJTSWGFZR'] => 'FYSXZSPFWGLJJTSWGFZR',
         IUserGroup::ID['FYSXZSPFWGLJDJZCGYG'] => 'FYSXZSPFWGLJDJZCGYG',
+        IUserGroup::ID['FYSSHANGWJ'] => 'FYSSHANGWJ',
 
         IUserGroup::ID['ZGFSXWXCB'] => 'ZGFSXWXCB',
         IUserGroup::ID['FSXWZZB'] => 'FSXWZZB',

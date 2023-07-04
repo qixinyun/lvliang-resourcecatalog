@@ -322,6 +322,7 @@ interface IUserGroup extends IUserGroupIdentify
         'FYSXZSPFWGLJSKSWGFZR' => 638,
         'FYSXZSPFWGLJJTSWGFZR' => 639,
         'FYSXZSPFWGLJDJZCGYG' => 640,
+        'FYSSHANGWJ' => 1535,
 
         'ZGFSXWXCB' => 701,
         'FSXWZZB' => 702,
